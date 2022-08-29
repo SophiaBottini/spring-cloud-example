@@ -1,0 +1,4 @@
+server:
+  port: ${PORT: 9999}
+  message: Cosumer configuration. Server is alive for PROD profile
+  
