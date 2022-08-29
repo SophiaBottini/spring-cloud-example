@@ -1,2 +1,2 @@
 # spring-cloud-example
-Spring Cloud config exmple
+Spring Cloud Config exmple
